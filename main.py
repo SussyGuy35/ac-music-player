@@ -111,7 +111,6 @@ while True:
 				play_button.on_click()
 	
 	update_hour_music()
-	print(clock.get_fps())
 
 	screen.fill("black")
 	play_button.update()
